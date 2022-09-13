@@ -7,10 +7,10 @@
         "React and Libraries"
     ],
     "BookProgress": [
-        100,
+        25,
         75,
         50,
-        0,
-        25
+        100,
+        0
     ]
 }

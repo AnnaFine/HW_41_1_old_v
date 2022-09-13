@@ -11,10 +11,10 @@
         "The Joy of JavaScript"
     ],
     "BookProgress": [
-        100,
         25,
-        75,
         50,
+        75,
+        100,
         0,
         0,
         0,
